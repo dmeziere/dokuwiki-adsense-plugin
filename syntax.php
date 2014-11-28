@@ -110,7 +110,6 @@ class syntax_plugin_adsense extends DokuWiki_Syntax_Plugin
      * Handles the actual output creation.
      * 
      * @todo Display an error message if client or slot are incorrect.
-     * @todo Allow webmaster to restrict to anonymous users.
      * 
      * @param string $format Output format being rendered.
      * @param Doku_Renderer $renderer The current renderer object.
