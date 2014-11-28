@@ -5,7 +5,7 @@ Install
 -------
 
 1. `cd dokuwiki/lib/plugins`
-2. `git clone https://github.com/dmeziere/dokuwiki-plugin-adsense adsense`
+2. `git clone https://github.com/dmeziere/dokuwiki-adsense-plugin adsense`
 
 Use
 ---
