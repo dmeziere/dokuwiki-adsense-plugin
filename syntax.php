@@ -36,7 +36,7 @@ class syntax_plugin_adsense extends DokuWiki_Syntax_Plugin
             'date'   => '2014-11-28',
             'name'   => 'Google AdSense Plugin',
             'desc'   => 'Displays Google AdSense Javascripts.',
-            'url'    => 'https://github.com/dmeziere/dokuwiki/plugin/adsense',
+            'url'    => 'https://github.com/dmeziere/dokuwiki-plugin-adsense',
         );
     }
 
