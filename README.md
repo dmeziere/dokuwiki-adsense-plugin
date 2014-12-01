@@ -1,6 +1,8 @@
 Dokuwiki AdSense plugin
 =======================
 
+Don't use. Pending work.
+
 Install
 -------
 
